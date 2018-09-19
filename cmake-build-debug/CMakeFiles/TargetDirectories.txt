@@ -1,0 +1,3 @@
+Q:/Studia/C++/Filipa/GameOfLife/cmake-build-debug/CMakeFiles/edit_cache.dir
+Q:/Studia/C++/Filipa/GameOfLife/cmake-build-debug/CMakeFiles/GameOfLife.dir
+Q:/Studia/C++/Filipa/GameOfLife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
